@@ -2,7 +2,7 @@ name: Deploy to ECR
 # updated ECR Repo week3-1 09/23
 on: 
   push:
-    branches: [ master ]
+    branches: [ AZhou-lab3 ]
 
 jobs:
   
